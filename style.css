@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+    background-color: green;
+}
+
+h1 {
+    text-align: center;
+    border-radius: 10px;
+    background-color: black;
+    color:white;
+}
+
+canvas {
+    border: 2px solid black;
+    display: block;
+    margin: auto;
+    background-image: url('background.jpg');
+}
+
+button {
+    display: block;
+    margin:auto;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    width:10%;
+    height:5%;
+}
+
+
+button:hover {
+    background-color: lightgray;
+}
+
+p {
+    border-radius: 5px;
+    border: solid 2px black;
+    width:10%;
+    background-color: grey;
+
+}
+
+footer {
+    text-align: center;
+ }
+ 
+ hr {
+    background-color: black;
+    height:5px;
+}
+ 
